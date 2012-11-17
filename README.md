@@ -1,4 +1,4 @@
-# Japanese Era Calendar Scheme
+﻿# Japanese Era Calendar Scheme
 
 ## 日本語暦変換プログラム
 
@@ -37,3 +37,8 @@ Write your dates only using Kanji! For instance, 2012-10-20 becomes 平成二十
 ### Pronunciation of Dates
 
 Have an option to output the reading of the dates. For instance, 2012-10-20 becomes へいせいにじゅうねんじゅうがつはつか.
+
+ところで、ホームページでは和暦が大化からはじまっています。
+> 歴史地震の参考図書によれば、最古の地震が「允恭５年」とあります。
+> 歴史の基礎知識が無いもので恐縮ですが、大化以前は天皇の名前を
+> 和暦というのか、年号と考えていooooooooooooooo
